@@ -1,0 +1,8 @@
+﻿BranchID,BranchCode,BranchName,BankId,BranchType,Branch Address,Country,State,County,IFSC Code,Town,BranchOpenDate
+2152,342,"ANB,Albion,Orleans",1,,"218,Eighth San Street,Albion",US,NY,Orleans,ANB00342,Albion,10/1/2010
+2153,343,"ANB,Albion,Oswego",1,,"318,third Lane,Albion",US,NY,Oswego,ANB00343,Albion,5/5/2003
+2187,344,"ANB,Ashland,Chemung",1,,"149,Sixth Avenue,Ashland",US,NY,Chemung,ANB00344,Ashland,12/30/2013
+2188,345,"ANB,Ashland,Greene",1,,"392,Second Lane,Ashland",US,NY,Greene,ANB00345,Ashland,11/11/2000
+2244,346,"ANB,Brighton,Franklin",1,,"352,Tenth Lane,Brighton",US,NY,Franklin,ANB00346,Brighton,9/20/2003
+2245,347,"ANB,Brighton,Monroe",1,,"150,Eighth Lane,Brighton",US,NY,Monroe,ANB00347,Brighton,5/25/2004
+2312,348,"ANB,Chester,Orange",1,,"141,first Main Street,Chester",US,NY,Orange,ANB00348,Chester,6/16/2017
